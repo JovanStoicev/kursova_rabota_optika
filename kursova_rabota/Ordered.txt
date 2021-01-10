@@ -1,0 +1,195 @@
+Provider name: Petar
+Provider number: 555333
+Provider bulstat: 123
+Provider location: Pirot
+Optic widht: 1
+Optic dioptre: 2
+Optic type: vid
+Optic material: metal
+Orderer full name: Darko Petrov
+Orderer city: Caribrod
+Orderer adress: kukurigu siti
+Orderer phone number: 1234567
+
+Provider name: Petar
+Provider number: 555333
+Provider bulstat: 123
+Provider location: Pirot
+Optic widht: 1
+Optic dioptre: 2
+Optic type: vid
+Optic material: metal
+Orderer full name: Darko Petrov
+Orderer city: Caribrod
+Orderer adress: kukurigu siti
+Orderer phone number: 12345688
+
+Provider name: Jovan
+Provider number: 0621053680
+Provider bulstat: 123456789
+Provider location: Caribrod
+Optic widht: 2
+Optic dioptre: 1
+Optic type: vid
+Optic material: plastika
+Orderer full name: Darko Petrov
+Orderer city: Caribrod
+Orderer adress: kukurigu siti
+Orderer phone number: 12345688
+
+Provider name: Petar
+Provider number: 555333
+Provider bulstat: 123
+Provider location: Pirot
+Optic widht: 5
+Optic dioptre: 1
+Optic type: s
+Optic material: d
+Orderer full name: Milica Stoicev
+Orderer city: Caribrod
+Orderer adress: Zeljusa
+Orderer phone number: 0611153440
+
+Provider name: Jovan
+Provider number: 0621053680
+Provider bulstat: 123456789
+Provider location: Caribrod
+Optic widht: 5
+Optic dioptre: -1.5
+Optic type: vid
+Optic material: plastika
+Orderer full name: Milica Stoicev
+Orderer city: Caribrod
+Orderer adress: Zeljusa
+Orderer phone number: 0611153440
+
+Provider name: Jovan
+Provider number: 0621053680
+Provider bulstat: 123456789
+Provider location: Caribrod
+Optic widht: 2
+Optic dioptre: 1
+Optic type: vid
+Optic material: plastika
+Orderer full name: Milica Stoicev
+Orderer city: Caribrod
+Orderer adress: Divlji zapad
+Orderer phone number: 0611153440
+
+Provider name: Jovan
+Provider number: 0621053680
+Provider bulstat: 123456789
+Provider location: Caribrod
+Optic widht: 2
+Optic dioptre: 1
+Optic type: vid
+Optic material: plastika
+Orderer full name: Jovan Stoicev
+Orderer city: Caribrod
+Orderer adress: Zeljusa
+Orderer phone number: 361634
+
+Provider name: Petar
+Provider number: 555333
+Provider bulstat: 123
+Provider location: Pirot
+Optic widht: 5
+Optic dioptre: 1
+Optic type: s
+Optic material: d
+Orderer full name: Jovan Stoicev
+Orderer city: Caribrod
+Orderer adress: Zeljusa
+Orderer phone number: 361634
+
+Provider name: Jovan
+Provider number: 0621053680
+Provider bulstat: 123456789
+Provider location: Caribrod
+Optic widht: 5
+Optic dioptre: -1.5
+Optic type: vid
+Optic material: plastika
+Orderer full name: Jovan Stoicev
+Orderer city: Caribrod
+Orderer adress: Zeljusa
+Orderer phone number: 361634
+
+Provider name: Petar
+Provider number: 555333
+Provider bulstat: 123
+Provider location: Pirot
+Optic widht: 5
+Optic dioptre: 1
+Optic type: s
+Optic material: d
+Orderer full name: Jovan Stoicev
+Orderer city: Caribrod
+Orderer adress: Zeljusa
+Orderer phone number: 361634
+
+Provider name: Jovan
+Provider number: 0621053680
+Provider bulstat: 123456789
+Provider location: Caribrod
+Optic widht: 2
+Optic dioptre: 1
+Optic type: vid
+Optic material: plastika
+Orderer full name: Misa Misic
+Orderer city: Nis
+Orderer adress: Nikole Pasica
+Orderer phone number: 0694206969
+
+Provider name: Jovan
+Provider number: 0621053680
+Provider bulstat: 123456789
+Provider location: Caribrod
+Optic widht: 2
+Optic dioptre: 1
+Optic type: vid
+Optic material: plastika
+Orderer full name: Misa Misic
+Orderer city: Nis
+Orderer adress: Nikole Pasica
+Orderer phone number: 0694206969
+
+Provider name: Jovan
+Provider number: 0621053680
+Provider bulstat: 123456789
+Provider location: Caribrod
+Optic widht: 2
+Optic dioptre: 1
+Optic type: vid
+Optic material: plastika
+Orderer full name: Misa Misic
+Orderer city: Nis
+Orderer adress: Nikole Pasica
+Orderer phone number: 0694206969
+
+Provider name: Petar
+Provider number: 555333
+Provider bulstat: 123
+Provider location: Pirot
+Optic widht: 5
+Optic dioptre: 1
+Optic type: s
+Optic material: d
+Orderer full name: Mitko Mitkov
+Orderer city: Sofia
+Orderer adress: Studentski grad
+Orderer phone number: 08831122216
+
+Provider name: Jovan
+Provider number: 0621053680
+Provider bulstat: 123456789
+Provider location: Caribrod
+Optic widht: 5
+Optic dioptre: -1.5
+Optic type: vid
+Optic material: plastika
+Orderer full name: Mitko Mitkov
+Orderer city: Sofia
+Orderer adress: Studentski grad
+Orderer phone number: 08831122216
+

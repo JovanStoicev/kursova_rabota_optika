@@ -1,0 +1,10 @@
+2
+1
+vid
+plastika
+35
+1
+2
+vid
+metal
+40

@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\Jovan\source\repos\kursova_rabota\kursova_rabota\Main.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jovan\source\repos\kursova_rabota\kursova_rabota\Main.cpp(96,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jovan\source\repos\kursova_rabota\kursova_rabota\Main.cpp(113,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jovan\source\repos\kursova_rabota\kursova_rabota\Main.cpp(221,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jovan\source\repos\kursova_rabota\kursova_rabota\Main.cpp(291,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jovan\source\repos\kursova_rabota\kursova_rabota\Main.cpp(338,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jovan\source\repos\kursova_rabota\kursova_rabota\Main.cpp(398,28): warning C4018: '<': signed/unsigned mismatch
+  kursova_rabota.vcxproj -> C:\Users\Jovan\source\repos\kursova_rabota\Debug\kursova_rabota.exe
